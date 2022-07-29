@@ -23,3 +23,4 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# pruebau2_pw_p2_am" 
+"# pruebau2_pw_p2_AntMon" 
